@@ -14,7 +14,7 @@
  
  ## 📄 Notes
  Detailed notes are available here:  
- 👉 [Intro-to-JS-01.pdf](./02-Variables_and_DataTypes.pdf)
+ 👉 [02-variables-and-datatypes.pdf](./02-Variables_and_DataTypes.pdf)
  
  ---
  
